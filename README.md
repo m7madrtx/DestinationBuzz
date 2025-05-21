@@ -21,7 +21,7 @@ The app uses your device's GPS to track your location's coordinates & updates th
    ```bash
    flutter run
 
-## 💵 College Ain't Cheap. Your Support Is Appreciated!
+## 💵 College Ain't Cheap. Your Support is Highly Appreciated!
 PayPal: m7mad.dev96@gmail.com
 
 ## 🗒️ Note
